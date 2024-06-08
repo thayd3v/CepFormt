@@ -7,12 +7,12 @@ Welcome to the VS Code Java world ☕♨
 
 # Tópicos praticados
 
- - Tratamentos de Exceções 
+  * Tratamentos de Exceções 
   * Try/Catch/finally
   * Hierarquia das exceções e exceções customizadas 
   
   # Exceções frequentes 
-  
+
  - ArithmeticException
  - ClassNotFoundException
  - DataFormatException
