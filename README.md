@@ -2,7 +2,7 @@
 
 Welcome to the VS Code Java world ☕♨
  
- - Repositório para armazenar o conteúdo sobre a dominação da linguagem de programação. 
+ - Repositório sobre conteúdo de dominação da linguagem de programação Java 
  (Parte II) 
 
 # Tópicos praticados
